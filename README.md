@@ -1,9 +1,12 @@
 # ImageGuesser
 ## How to compile
 compile using the command in the folder
-javac -cp "./;./json.jar" ImageGuesser.java
+
+`javac -cp "./;./json.jar" ImageGuesser.java`
+
 run using the command
-java -cp "./;./json.jar" ImageGuesser
+
+`java -cp "./;./json.jar" ImageGuesser`
 
 When the program starts, follow the instructions.
 
